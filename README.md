@@ -7,7 +7,7 @@
 
 # Run
 
-``` shell
+``` console
 
 ./run.sh
 
