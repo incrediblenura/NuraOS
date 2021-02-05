@@ -6,8 +6,11 @@
 5. qemu qemu-system-x86_64
 
 # Run
+
 '''java
+
 ./run.sh
+
 '''
 
 ## This is a basic kernel for NuraOS
