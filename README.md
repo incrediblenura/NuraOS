@@ -7,7 +7,7 @@
 
 # Run
 
-'''java
+''' java
 
 ./run.sh
 
