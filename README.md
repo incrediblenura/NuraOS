@@ -7,10 +7,10 @@
 
 # Run
 
-''' java
+``` shell
 
 ./run.sh
 
-'''
+```
 
 ## This is a basic kernel for NuraOS
