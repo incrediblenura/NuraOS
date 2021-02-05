@@ -6,7 +6,7 @@
 5. qemu qemu-system-x86_64
 
 # Run
-'''she
+'''sh
 ./run.sh
 '''
 
